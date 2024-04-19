@@ -1,8 +1,8 @@
 [
     {
-      "title": "Project-A :- Landing page of coffee-shop",
+      "title": "Project-A :- Landing page",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the HTML5 CSS3 and JavaScript language.",
+      "description": "This is a project of coffee-shop made to learn the HTML5 CSS3 and JavaScript language.",
       "skills": ["HTML5", "CSS", "JavaScript"],
       "demo": "#",
       "source": "https://github.com/jayraj1750/landing_page_coffe_house.git"
@@ -10,15 +10,15 @@
     {
       "title": "Project-B :- Landing page of University",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the HTML5 CSS3 and JavaScript language.",
+      "description": "This is a project of made to learn the HTML5 CSS3 and JavaScript language.",
       "skills": ["HTML5", "CSS", "JavaScript"],
       "demo": "#",
       "source": "https://github.com/jayraj1750/College-Landing_Page.git"
     },
     {
-      "title": "Project-C :- ToDo-list",
+      "title": "Project-C :- ToDo - list",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a project of ToDo - list made to learn the latest languages by building an app.",
       "skills": ["HTML5", "CSS3", "JavaScript"],
       "demo": "#",
       "source": "https://github.com/jayraj1750/ToDo-list-app.git"
