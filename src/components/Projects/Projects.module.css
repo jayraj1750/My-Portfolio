@@ -3,8 +3,12 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: autp;
+  margin-right: autp;
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .title {
@@ -24,3 +28,29 @@
   gap: 15px;
   width: 100%;
 }
+
+@media (max-width: 600px) {
+  .container {
+     margin-left: 5%;
+     margin-right: 5%;
+   }
+ 
+  .title {
+     font-size: 25px;
+   }
+ 
+  .projects {
+     flex-direction: column;
+   }
+ }
+ 
+ @media (min-width: 601px) and (max-width: 1024px) {
+  .container {
+     margin-left: 8%;
+     margin-right: 8%;
+   }
+ 
+  .title {
+     font-size: 30px;
+   }
+ }
